@@ -1,4 +1,4 @@
-package myfirstproject;
+package basicprograms;
 import java.util.Scanner;
 
 /* Ask a student to enter following:

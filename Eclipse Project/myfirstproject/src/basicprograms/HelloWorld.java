@@ -1,4 +1,4 @@
-package myfirstproject;
+package basicprograms;
 
 public class HelloWorld {
 
